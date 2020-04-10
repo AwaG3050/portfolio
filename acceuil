@@ -1,0 +1,534 @@
+
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+	<meta charset="UTF-8">
+		<title>acceuil &#8211; Awa.G Design</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Awa.G Design &raquo; Flux" href="http://localhost/wordpress/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Awa.G Design &raquo; Flux des commentaires" href="http://localhost/wordpress/?feed=comments-rss2" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.15"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://localhost/wordpress/wp-includes/css/dashicons.min.css?ver=4.7.15' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='http://localhost/wordpress/wp-includes/css/admin-bar.min.css?ver=4.7.15' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-common-css'  href='http://localhost/wordpress/wp-content/plugins/elementor/assets/css/common.min.css?ver=2.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://localhost/wordpress/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='github-embed-css'  href='http://localhost/wordpress/wp-content/plugins/github-embed/css/github-embed.css?ver=4.7.15' type='text/css' media='all' />
+<link rel='stylesheet' id='qtip2css-css'  href='http://localhost/wordpress/wp-content/plugins/wordpress-tooltips/js/qtip2/jquery.qtip.min.css?ver=4.7.15' type='text/css' media='all' />
+<link rel='stylesheet' id='directorycss-css'  href='http://localhost/wordpress/wp-content/plugins/wordpress-tooltips/js/jdirectory/directory.css?ver=4.7.15' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css'  href='http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css'  href='http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ea-admin-bar-css'  href='http://localhost/wordpress/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/css/admin-bar.css?ver=3.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='eael-front-end-css'  href='//localhost/wordpress/wp-content/uploads/essential-addons-elementor/eael-post-103.min.css?ver=3.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hello-elementor-css'  href='http://localhost/wordpress/wp-content/themes/hello-elementor/style.min.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css'  href='http://localhost/wordpress/wp-content/themes/hello-elementor/theme.min.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='http://localhost/wordpress/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='http://localhost/wordpress/wp-content/uploads/elementor/css/global.css?ver=1570468192' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-103-css'  href='http://localhost/wordpress/wp-content/uploads/elementor/css/post-103.css?ver=1571659096' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CBigshot+One%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=4.7.15' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.9.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/jq-sticky-anything.min.js?ver=2.1.1'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/wordpress-tooltips/js/qtip2/jquery.qtip.min.js?ver=4.7.15'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/wordpress-tooltips/js/jdirectory/jquery.directory.js?ver=4.7.15'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.4.0'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/js/admin-bar.js?ver=3.4.0'></script>
+<link rel='https://api.w.org/' href='http://localhost/wordpress/?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/wordpress/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost/wordpress/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.15" />
+<link rel="canonical" href="http://localhost/wordpress/?page_id=103" />
+<link rel='shortlink' href='http://localhost/wordpress/?p=103' />
+<link rel="alternate" type="application/json+oembed" href="http://localhost/wordpress/?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Flocalhost%2Fwordpress%2F%3Fpage_id%3D103" />
+<link rel="alternate" type="text/xml+oembed" href="http://localhost/wordpress/?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Flocalhost%2Fwordpress%2F%3Fpage_id%3D103&#038;format=xml" />
+	<style type="text/css">
+	.tooltips_table .tooltipsall
+	{
+		border-bottom:none !important;
+	}
+	.tooltips_table span {
+    color: inherit !important;
+	}
+	.qtip-content .tooltipsall
+	{
+		border-bottom:none !important;
+		color: inherit !important;
+	}
+	</style>
+	 	<script type="text/javascript">	
+	if(typeof jQuery=='undefined')
+	{
+		document.write('<'+'script src="http://localhost/wordpress/wp-content/plugins//wordpress-tooltips/js/qtip/jquery.js" type="text/javascript"></'+'script>');
+	}
+	</script>
+	<script type="text/javascript">
+
+	function toolTips(whichID,theTipContent)
+	{
+			jQuery(whichID).qtip
+			(
+				{
+					content:
+					{
+						text:theTipContent,
+												
+					},
+   					style:
+   					{
+   						classes:' qtip-dark wordpress-tooltip-free qtip-rounded qtip-shadow '
+    				},
+    				position:
+    				{
+    					viewport: jQuery(window),
+    					my: 'bottom center',
+    					at: 'top center'
+    				},
+					show:'mouseover',
+					hide: { fixed: true, delay: 200 }
+				}
+			)
+	}
+</script>
+	
+<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" /></head>
+<body class="page-template page-template-elementor_canvas page page-id-103 logged-in admin-bar no-customize-support elementor-default elementor-template-canvas elementor-page elementor-page-103">
+			<div data-elementor-type="wp-page" data-elementor-id="103" class="elementor elementor-103" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<header class="elementor-element elementor-element-ed994d2 elementor-section-height-min-height elementor-section-full_width elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="ed994d2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-7c5fdbe elementor-column elementor-col-50 elementor-top-column" data-id="7c5fdbe" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-6324a20 eael-tooltip-align-center elementor-absolute elementor-widget elementor-widget-eael-tooltip" data-id="6324a20" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="eael-tooltip.default">
+				<div class="elementor-widget-container">
+				<div class="eael-tooltip">
+					<span class="eael-tooltip-content"><a href="http://localhost/wordpress/?page_id=103"   ><img src="http://localhost/wordpress/wp-content/uploads/2019/10/logo-pro.png" alt=""></a></span>
+  			<span class="eael-tooltip-text eael-tooltip-bottom"><p>Acceuil</p></span>
+  			</div>
+			</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-05c9eb4 elementor-column elementor-col-50 elementor-top-column" data-id="05c9eb4" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-0399f96 elementor-absolute elementor-widget elementor-widget-html" data-id="0399f96" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<a href="http://localhost/wordpress/?page_id=103">Acceuil</a>/
+<a href="http://localhost/wordpress/?page_id=110">Portfolio</a>/
+<a href="http://localhost/wordpress/?page_id=114">A propos</a>/
+<a href="http://localhost/wordpress/?page_id=119">Contacts</a>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</header>
+				<section class="elementor-element elementor-element-db597ea elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="db597ea" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-edd2547 elementor-column elementor-col-100 elementor-top-column" data-id="edd2547" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-55b58ec elementor-widget elementor-widget-heading" data-id="55b58ec" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Awa GNING</h1>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-5b558b3 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="5b558b3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-98858b6 elementor-column elementor-col-100 elementor-top-column" data-id="98858b6" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-b7d0e0e elementor-widget elementor-widget-heading" data-id="b7d0e0e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Design Graphique sur Lille</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-4e055ba elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="4e055ba" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-7796d5c elementor-column elementor-col-100 elementor-top-column" data-id="7796d5c" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-940f075 elementor-widget elementor-widget-text-editor" data-id="940f075" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><img class="alignright wp-image-46 size-medium" src="http://localhost/wordpress/wp-content/uploads/2019/10/photoweb-300x284.jpg" alt="" width="300" height="284" srcset="http://localhost/wordpress/wp-content/uploads/2019/10/photoweb-300x284.jpg 300w, http://localhost/wordpress/wp-content/uploads/2019/10/photoweb.jpg 454w" sizes="(max-width: 300px) 100vw, 300px" /></p><p>Besoin d&rsquo;un logo?</p><p>De booster un peu la communication de votre entreprise?</p><p>De dymaniser votre site?</p><p> </p><p>Faites appel à une graphiste web près de chez vous!</p><p>Région-Lille</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5fd252d elementor-widget-divider--view-line_icon elementor-view-default elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="5fd252d" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<div class="elementor-icon elementor-divider__element">
+					<i aria-hidden="true" class="fab fa-adobe"></i></div>
+						</span>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-097b75c elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="097b75c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-644b7b8 elementor-column elementor-col-100 elementor-top-column" data-id="644b7b8" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-6062e61 elementor-vertical-align-middle elementor-position-top elementor-widget elementor-widget-image-box" data-id="6062e61" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="http://localhost/wordpress/?page_id=110"><img width="2560" height="1600" src="http://localhost/wordpress/wp-content/uploads/2019/10/photomontage-syfy.jpg" class="elementor-animation-shrink attachment-full size-full" alt="" srcset="http://localhost/wordpress/wp-content/uploads/2019/10/photomontage-syfy.jpg 2560w, http://localhost/wordpress/wp-content/uploads/2019/10/photomontage-syfy-300x188.jpg 300w, http://localhost/wordpress/wp-content/uploads/2019/10/photomontage-syfy-768x480.jpg 768w, http://localhost/wordpress/wp-content/uploads/2019/10/photomontage-syfy-1024x640.jpg 1024w" sizes="(max-width: 2560px) 100vw, 2560px" /></a></figure><div class="elementor-image-box-content"><h2 class="elementor-image-box-title"><a href="http://localhost/wordpress/?page_id=110">Portfolio</a></h2></div></div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-cd2e012 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="cd2e012" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5f0ecb7 elementor-column elementor-col-100 elementor-top-column" data-id="5f0ecb7" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-3cb17f5 elementor-widget-divider--view-line_icon elementor-view-default elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="3cb17f5" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<div class="elementor-icon elementor-divider__element">
+					<i aria-hidden="true" class="fab fa-html5"></i></div>
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-030d38c elementor-vertical-align-middle elementor-position-top elementor-widget elementor-widget-image-box" data-id="030d38c" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="http://localhost/wordpress/?page_id=114"><img width="454" height="430" src="http://localhost/wordpress/wp-content/uploads/2019/10/photoweb.jpg" class="elementor-animation-shrink attachment-full size-full" alt="" srcset="http://localhost/wordpress/wp-content/uploads/2019/10/photoweb.jpg 454w, http://localhost/wordpress/wp-content/uploads/2019/10/photoweb-300x284.jpg 300w" sizes="(max-width: 454px) 100vw, 454px" /></a></figure><div class="elementor-image-box-content"><h2 class="elementor-image-box-title"><a href="http://localhost/wordpress/?page_id=114">A propos</a></h2></div></div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-5bba6ec elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="5bba6ec" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-c9a8ad2 elementor-column elementor-col-100 elementor-top-column" data-id="c9a8ad2" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-5ecf45e elementor-widget-divider--view-line_icon elementor-view-default elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="5ecf45e" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<div class="elementor-icon elementor-divider__element">
+					<i aria-hidden="true" class="fab fa-wordpress"></i></div>
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-618525d elementor-vertical-align-middle elementor-position-top elementor-widget elementor-widget-image-box" data-id="618525d" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="http://localhost/wordpress/?page_id=119"><img width="1920" height="1271" src="http://localhost/wordpress/wp-content/uploads/2019/10/contact-us-2993000_1920.jpg" class="elementor-animation-shrink attachment-full size-full" alt="" srcset="http://localhost/wordpress/wp-content/uploads/2019/10/contact-us-2993000_1920.jpg 1920w, http://localhost/wordpress/wp-content/uploads/2019/10/contact-us-2993000_1920-300x199.jpg 300w, http://localhost/wordpress/wp-content/uploads/2019/10/contact-us-2993000_1920-768x508.jpg 768w, http://localhost/wordpress/wp-content/uploads/2019/10/contact-us-2993000_1920-1024x678.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /></a></figure><div class="elementor-image-box-content"><h2 class="elementor-image-box-title"><a href="http://localhost/wordpress/?page_id=119">Contact</a></h2></div></div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-9074e80 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="9074e80" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-f5d1819 elementor-column elementor-col-100 elementor-top-column" data-id="f5d1819" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-6651b79 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="6651b79" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-f94e18d elementor-column elementor-col-50 elementor-inner-column" data-id="f94e18d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-00efea7 elementor-widget elementor-widget-wp-widget-nav_menu" data-id="00efea7" data-element_type="widget" data-widget_type="wp-widget-nav_menu.default">
+				<div class="elementor-widget-container">
+			<div class="menu-mentions-legales-container"><ul id="menu-mentions-legales" class="menu"><li id="menu-item-267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-267"><a href="http://localhost/wordpress/?page_id=265">Mention légal</a></li>
+</ul></div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-c1e66ab elementor-column elementor-col-50 elementor-inner-column" data-id="c1e66ab" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-6f26c15 elementor-shape-rounded elementor-widget elementor-widget-social-icons" data-id="6f26c15" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper">
+							<a href="" class="elementor-icon elementor-social-icon elementor-social-icon-google-plus elementor-repeater-item-dfa8ec3" target="_blank">
+					<span class="elementor-screen-only">Google-plus</span>
+					<i class="fab fa-google-plus"></i>				</a>
+							<a href="https://www.linkedin.com/in/awa-gning-865b53128/" class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-a36b690" target="_blank">
+					<span class="elementor-screen-only">Linkedin</span>
+					<i class="fab fa-linkedin"></i>				</a>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		<script type="text/javascript">
+jQuery("document").ready(function()
+{
+	jQuery("body img").each(function()
+	{
+		if ((jQuery(this).parent("a").attr('title') != '' )  && (jQuery(this).parent("a").attr('title') != undefined ))
+		{
+			toolTips(jQuery(this).parent("a"),jQuery(this).parent("a").attr('title'));
+		}
+		else
+		{
+			var tempAlt = jQuery(this).attr('alt');
+			if (typeof(tempAlt) !== "undefined")
+			{
+				tempAlt = tempAlt.replace(' ', '');
+				if (tempAlt == '')
+				{
+
+				}
+				else
+				{
+					toolTips(jQuery(this),jQuery(this).attr('alt'));
+				}
+			}
+		}
+	}
+
+	);
+})
+</script>
+<script type="text/javascript">
+var inboxs = new Array();
+inboxs['language'] = "en";
+inboxs['navitemselectedsize'] = '18px';
+inboxs['selectors'] = '.tooltips_list > span';
+inboxs['number'] = 'yes';
+jQuery('.tooltips_directory').directory(inboxs);
+</script>
+<script type="text/template" id="tmpl-elementor-templates-modal__header">
+	<div class="elementor-templates-modal__header__logo-area"></div>
+	<div class="elementor-templates-modal__header__menu-area"></div>
+	<div class="elementor-templates-modal__header__items-area">
+		<# if ( closeType ) { #>
+			<div class="elementor-templates-modal__header__close elementor-templates-modal__header__close--{{{ closeType }}} elementor-templates-modal__header__item">
+				<# if ( 'skip' === closeType ) { #>
+				<span>Passer</span>
+				<# } #>
+				<i class="eicon-close" aria-hidden="true" title="Fermer"></i>
+				<span class="elementor-screen-only">Fermer</span>
+			</div>
+		<# } #>
+		<div id="elementor-template-library-header-tools"></div>
+	</div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-templates-modal__header__logo">
+	<span class="elementor-templates-modal__header__logo__icon-wrapper">
+		<i class="eicon-elementor"></i>
+	</span>
+	<span class="elementor-templates-modal__header__logo__title">{{{ title }}}</span>
+</script>
+<script type="text/template" id="tmpl-elementor-finder">
+	<div id="elementor-finder__search">
+		<i class="eicon-search"></i>
+		<input id="elementor-finder__search__input" placeholder="Saisissez pour trouver dans Elementor">
+	</div>
+	<div id="elementor-finder__content"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder-results-container">
+	<div id="elementor-finder__no-results">Aucun résultat trouvé</div>
+	<div id="elementor-finder__results"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__category">
+	<div class="elementor-finder__results__category__title">{{{ title }}}</div>
+	<div class="elementor-finder__results__category__items"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__item">
+	<a href="{{ url }}" class="elementor-finder__results__item__link">
+		<div class="elementor-finder__results__item__icon">
+			<i class="eicon-{{{ icon }}}"></i>
+		</div>
+		<div class="elementor-finder__results__item__title">{{{ title }}}</div>
+		<# if ( description ) { #>
+			<div class="elementor-finder__results__item__description">- {{{ description }}}</div>
+		<# } #>
+	</a>
+	<# if ( actions.length ) { #>
+		<div class="elementor-finder__results__item__actions">
+		<# jQuery.each( actions, function() { #>
+			<a class="elementor-finder__results__item__action elementor-finder__results__item__action--{{ this.name }}" href="{{ this.url }}" target="_blank">
+				<i class="eicon-{{{ this.icon }}}"></i>
+			</a>
+		<# } ); #>
+		</div>
+	<# } #>
+</script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/admin-bar.min.js?ver=4.7.15'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/localhost\/wordpress\/?rest_route=\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sticky_anything_engage = {"element":"header","topspace":"0","minscreenwidth":"0","maxscreenwidth":"999999","zindex":"1","legacymode":"","dynamicmode":"","debugmode":"","pushup":"","adminbar":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/stickThis.js?ver=2.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var localize = {"ajaxurl":"http:\/\/localhost\/wordpress\/wp-admin\/admin-ajax.php","nonce":"8ff969f7d8"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//localhost/wordpress/wp-content/uploads/essential-addons-elementor/eael-post-103.min.js?ver=3.4.0'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/backbone.min.js?ver=1.2.3'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/backbone/backbone.marionette.min.js?ver=2.4.5'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/backbone/backbone.radio.min.js?ver=1.0.4'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/elementor/assets/js/common-modules.min.js?ver=2.7.4'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.3'></script>
+<script type='text/javascript'>
+var elementorCommonConfig = {"version":"2.7.4","isRTL":false,"activeModules":["ajax","finder","connect"],"urls":{"assets":"http:\/\/localhost\/wordpress\/wp-content\/plugins\/elementor\/assets\/"},"ajax":{"url":"http:\/\/localhost\/wordpress\/wp-admin\/admin-ajax.php","nonce":"67a7bab9e9"},"finder":{"data":{"edit":{"title":"Modifier","dynamic":true,"name":"edit"},"general":{"title":"G\u00e9n\u00e9ral","dynamic":false,"items":{"saved-templates":{"title":"Mod\u00e8les enregistr\u00e9s","icon":"library-save","url":"http:\/\/localhost\/wordpress\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=library","keywords":["template","section","page","library"]},"system-info":{"title":"Informations syst\u00e8me","icon":"info","url":"http:\/\/localhost\/wordpress\/wp-admin\/admin.php?page=elementor-system-info","keywords":["system","info","environment","elementor"]},"role-manager":{"title":"Gestionnaire de r\u00f4le","icon":"person","url":"http:\/\/localhost\/wordpress\/wp-admin\/admin.php?page=elementor-role-manager","keywords":["role","manager","user","elementor"]},"knowledge-base":{"title":"Base de connaissances","url":"http:\/\/localhost\/wordpress\/wp-admin\/admin.php?page=go_knowledge_base_site","keywords":["help","knowledge","docs","elementor"]}},"name":"general"},"create":{"title":"Cr\u00e9er","dynamic":false,"items":{"post":{"title":"Ajouter un\u00b7e Article","icon":"plus-circle-o","url":"http:\/\/localhost\/wordpress\/wp-admin\/edit.php?action=elementor_new_post&post_type=post&_wpnonce=954c907b07","keywords":["post","page","template","new","create"]},"page":{"title":"Ajouter un\u00b7e Page","icon":"plus-circle-o","url":"http:\/\/localhost\/wordpress\/wp-admin\/edit.php?action=elementor_new_post&post_type=page&_wpnonce=954c907b07","keywords":["post","page","template","new","create"]},"elementor_library":{"title":"Ajouter un\u00b7e Mod\u00e8le","icon":"plus-circle-o","url":"http:\/\/localhost\/wordpress\/wp-admin\/edit.php?post_type=elementor_library#add_new","keywords":["post","page","template","new","create"]}},"name":"create"},"site":{"title":"Site","dynamic":false,"items":{"homepage":{"title":"Page d\u2019accueil","url":"http:\/\/localhost\/wordpress","icon":"home-heart","keywords":["home","page"]},"wordpress-dashboard":{"title":"Tableau de bord","icon":"dashboard","url":"http:\/\/localhost\/wordpress\/wp-admin\/","keywords":["dashboard","wordpress"]},"wordpress-menus":{"title":"Menus","icon":"wordpress","url":"http:\/\/localhost\/wordpress\/wp-admin\/nav-menus.php","keywords":["menu","wordpress"]},"wordpress-themes":{"title":"Th\u00e8mes","icon":"wordpress","url":"http:\/\/localhost\/wordpress\/wp-admin\/themes.php","keywords":["themes","wordpress"]},"wordpress-customizer":{"title":"Outil de personnalisation","icon":"wordpress","url":"http:\/\/localhost\/wordpress\/wp-admin\/customize.php","keywords":["customizer","wordpress"]},"wordpress-plugins":{"title":"Extensions","icon":"wordpress","url":"http:\/\/localhost\/wordpress\/wp-admin\/plugins.php","keywords":["plugins","wordpress"]},"wordpress-users":{"title":"Utilisateurs","icon":"wordpress","url":"http:\/\/localhost\/wordpress\/wp-admin\/users.php","keywords":["users","profile","wordpress"]}},"name":"site"},"settings":{"title":"R\u00e9glages","dynamic":false,"items":{"general-settings":{"title":"R\u00e9glages g\u00e9n\u00e9raux","url":"http:\/\/localhost\/wordpress\/wp-admin\/admin.php?page=elementor","keywords":["general","settings","elementor"]},"style":{"title":"Style","url":"http:\/\/localhost\/wordpress\/wp-admin\/admin.php?page=elementor#tab-style","keywords":["style","settings","elementor"]},"advanced":{"title":"Avanc\u00e9","url":"http:\/\/localhost\/wordpress\/wp-admin\/admin.php?page=elementor#tab-advanced","keywords":["advanced","settings","elementor"]}},"name":"settings"},"tools":{"title":"Outils","dynamic":false,"items":{"tools":{"title":"Outils","icon":"tools","url":"http:\/\/localhost\/wordpress\/wp-admin\/admin.php?page=elementor-tools","keywords":["tools","regenerate css","safe mode","debug bar","sync library","elementor"]},"replace-url":{"title":"Remplacer l\u2019URL","icon":"tools","url":"http:\/\/localhost\/wordpress\/wp-admin\/admin.php?page=elementor-tools#tab-replace_url","keywords":["tools","replace url","domain","elementor"]},"version-control":{"title":"Contr\u00f4le de version","icon":"time-line","url":"http:\/\/localhost\/wordpress\/wp-admin\/admin.php?page=elementor-tools#tab-versions","keywords":["tools","version","control","rollback","beta","elementor"]},"maintenance-mode":{"title":"Mode maintenance","icon":"tools","url":"http:\/\/localhost\/wordpress\/wp-admin\/admin.php?page=elementor-tools#tab-maintenance_mode","keywords":["tools","maintenance","coming soon","elementor"]}},"name":"tools"}},"i18n":{"finder":"Finder"}},"connect":[]};
+</script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/elementor/assets/js/common.min.js?ver=2.7.4'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/wp-embed.min.js?ver=4.7.15'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.7.4'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=4.4.6'></script>
+<script type='text/javascript'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.7.4","urls":{"assets":"http:\/\/localhost\/wordpress\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":103,"title":"acceuil","excerpt":""},"user":{"roles":["administrator"]}};
+</script>
+<script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.7.4'></script>
+	<!--[if lte IE 8]>
+		<script type="text/javascript">
+			document.body.className = document.body.className.replace( /(^|\s)(no-)?customize-support(?=\s|$)/, '' ) + ' no-customize-support';
+		</script>
+	<![endif]-->
+	<!--[if gte IE 9]><!-->
+		<script type="text/javascript">
+			(function() {
+				var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+						request = true;
+		
+				b[c] = b[c].replace( rcs, ' ' );
+				// The customizer requires postMessage and CORS (if the site is cross domain)
+				b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+			}());
+		</script>
+	<!--<![endif]-->
+			<div id="wpadminbar" class="nojq nojs">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Aller à la barre d&rsquo;outils</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Barre d&rsquo;outils" tabindex="0">
+				<ul id="wp-admin-bar-root-default" class="ab-top-menu">
+		<li id="wp-admin-bar-wp-logo" class="menupop"><a class="ab-item" aria-haspopup="true" href="http://localhost/wordpress/wp-admin/about.php"><span class="ab-icon"></span><span class="screen-reader-text">À propos de WordPress</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wp-logo-default" class="ab-submenu">
+		<li id="wp-admin-bar-about"><a class="ab-item" href="http://localhost/wordpress/wp-admin/about.php">À propos de WordPress</a>		</li></ul><ul id="wp-admin-bar-wp-logo-external" class="ab-sub-secondary ab-submenu">
+		<li id="wp-admin-bar-wporg"><a class="ab-item" href="https://wpfr.net">Site de WordPress-FR</a>		</li>
+		<li id="wp-admin-bar-documentation"><a class="ab-item" href="https://codex.wordpress.org/">Documentation</a>		</li>
+		<li id="wp-admin-bar-support-forums"><a class="ab-item" href="https://wpfr.net/support/">Forums d&rsquo;entraide</a>		</li>
+		<li id="wp-admin-bar-feedback"><a class="ab-item" href="https://wordpress.org/support/forum/requests-and-feedback">Remarque</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-site-name" class="menupop"><a class="ab-item" aria-haspopup="true" href="http://localhost/wordpress/wp-admin/">Awa.G Design</a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-site-name-default" class="ab-submenu">
+		<li id="wp-admin-bar-dashboard"><a class="ab-item" href="http://localhost/wordpress/wp-admin/">Tableau de bord</a>		</li></ul><ul id="wp-admin-bar-appearance" class="ab-submenu">
+		<li id="wp-admin-bar-themes"><a class="ab-item" href="http://localhost/wordpress/wp-admin/themes.php">Thèmes</a>		</li>
+		<li id="wp-admin-bar-menus"><a class="ab-item" href="http://localhost/wordpress/wp-admin/nav-menus.php">Menus</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item" href="http://localhost/wordpress/wp-admin/customize.php?url=http%3A%2F%2Flocalhost%2Fwordpress%2F%3Fpage_id%3D103">Personnaliser</a>		</li>
+		<li id="wp-admin-bar-updates"><a class="ab-item" href="http://localhost/wordpress/wp-admin/update-core.php" title="6 mises à jour d&rsquo;extensions, 4 mises à jour de thèmes"><span class="ab-icon"></span><span class="ab-label">10</span><span class="screen-reader-text">6 mises à jour d&rsquo;extensions, 4 mises à jour de thèmes</span></a>		</li>
+		<li id="wp-admin-bar-comments"><a class="ab-item" href="http://localhost/wordpress/wp-admin/edit-comments.php"><span class="ab-icon"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text">0 commentaire en attente de modération</span></a>		</li>
+		<li id="wp-admin-bar-new-content" class="menupop"><a class="ab-item" aria-haspopup="true" href="http://localhost/wordpress/wp-admin/post-new.php"><span class="ab-icon"></span><span class="ab-label">Créer</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-new-content-default" class="ab-submenu">
+		<li id="wp-admin-bar-new-post"><a class="ab-item" href="http://localhost/wordpress/wp-admin/post-new.php">Article</a>		</li>
+		<li id="wp-admin-bar-new-media"><a class="ab-item" href="http://localhost/wordpress/wp-admin/media-new.php">Fichier média</a>		</li>
+		<li id="wp-admin-bar-new-page"><a class="ab-item" href="http://localhost/wordpress/wp-admin/post-new.php?post_type=page">Page</a>		</li>
+		<li id="wp-admin-bar-new-elementor_library"><a class="ab-item" href="http://localhost/wordpress/wp-admin/post-new.php?post_type=elementor_library">Modèle</a>		</li>
+		<li id="wp-admin-bar-new-tooltips"><a class="ab-item" href="http://localhost/wordpress/wp-admin/post-new.php?post_type=tooltips">Tooltip</a>		</li>
+		<li id="wp-admin-bar-new-user"><a class="ab-item" href="http://localhost/wordpress/wp-admin/user-new.php">Utilisateur</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-edit"><a class="ab-item" href="http://localhost/wordpress/wp-admin/post.php?post=103&#038;action=edit">Modifier la page</a>		</li>
+		<li id="wp-admin-bar-elementor_edit_page"><a class="ab-item" href="http://localhost/wordpress/wp-admin/post.php?post=103&#038;action=elementor">Modifier avec Elementor</a>		</li>
+		<li id="wp-admin-bar-ea-wp-admin-bar" class="menupop ea-wp-admin-bar"><div class="ab-item ab-empty-item" aria-haspopup="true">EA Tools</div><div class="ab-sub-wrapper"><ul id="wp-admin-bar-ea-wp-admin-bar-default" class="ab-submenu">
+		<li id="wp-admin-bar-ea-all-cache-clear" class="ea-all-cache-clear"><a class="ab-item" href="#">Clear All Cache</a>		</li>
+		<li id="wp-admin-bar-ea-clear-cache-103" class="ea-clear-cache"><a class="ab-item" href="#">Clear Page Cache</a><div class="ea-clear-cache-id" data-pageid="103">		</li></ul></div>		</li></ul><ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+		<li id="wp-admin-bar-search" class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="http://localhost/wordpress/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Recherche</label><input type="submit" class="adminbar-button" value="Recherche"/></form></div>		</li>
+		<li id="wp-admin-bar-my-account" class="menupop with-avatar"><a class="ab-item" aria-haspopup="true" href="http://localhost/wordpress/wp-admin/profile.php">Salutations, awa<img alt='' src='http://2.gravatar.com/avatar/2c77315a3993ff32f1e7849deee173d4?s=26&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/2c77315a3993ff32f1e7849deee173d4?s=52&amp;d=mm&amp;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' /></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-user-actions" class="ab-submenu">
+		<li id="wp-admin-bar-user-info"><a class="ab-item" tabindex="-1" href="http://localhost/wordpress/wp-admin/profile.php"><img alt='' src='http://2.gravatar.com/avatar/2c77315a3993ff32f1e7849deee173d4?s=64&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/2c77315a3993ff32f1e7849deee173d4?s=128&amp;d=mm&amp;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' /><span class='display-name'>awa</span></a>		</li>
+		<li id="wp-admin-bar-edit-profile"><a class="ab-item" href="http://localhost/wordpress/wp-admin/profile.php">Modifier mon profil</a>		</li>
+		<li id="wp-admin-bar-logout"><a class="ab-item" href="http://localhost/wordpress/wp-login.php?action=logout&#038;_wpnonce=d353ac2f27">Se déconnecter</a>		</li></ul></div>		</li></ul>			</div>
+						<a class="screen-reader-shortcut" href="http://localhost/wordpress/wp-login.php?action=logout&#038;_wpnonce=d353ac2f27">Se déconnecter</a>
+					</div>
+
+			</body>
+</html>
